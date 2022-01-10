@@ -1,6 +1,7 @@
 # Discord-Banner-Image
 
 ## Installation Replit
+
 🧿 Replit : [Here](https://replit.com)
 
 🌀 UptimeRobot : [Here](https://uptimerobot.com)
@@ -9,6 +10,8 @@
 
 ## How Run Replit
 
-ADD TOKEN VALUE 
+ADD TOKEN VALUE
+
+<div align="Account"><img src="/image/3E.png"></div>
 
 JUST .RUN.
