@@ -12,6 +12,6 @@
 
 ADD TOKEN VALUE
 
-<div align="Account"><img src="/image/3E.png"></div>
+<div align="Account"><img src="3E.png"></div>
 
 JUST .RUN.
