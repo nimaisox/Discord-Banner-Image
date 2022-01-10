@@ -1,5 +1,9 @@
 # Discord-Banner-Image
 
+string member server and mic total
+
+![image](https://user-images.githubusercontent.com/61984673/148787100-be85246e-0e15-440d-9570-045b606ce847.png)
+
 ## Installation Replit
 
 🧿 Replit : [Here](https://replit.com)
