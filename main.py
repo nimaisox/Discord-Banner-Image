@@ -38,7 +38,7 @@ async def banner(ctx):
                 vc += 1
         img = Image.open("image.jpg")
         draw = ImageDraw.Draw(img)
-        font = ImageFont.truetype("arial.ttf", 30)
+        font = ImageFont.truetype("Font.ttf", 30)
         draw.text((233, 120), str(vc), (0,255,0), font=font)
         draw.text((332, 180), str(len(guild.members)), (0,255,0), font=font)
         img.save(f"{vc}.png")
